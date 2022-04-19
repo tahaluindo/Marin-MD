@@ -2,7 +2,7 @@ Download Modules
 [Here](https://www.mediafire.com/file/wczapv7uipv7vfk/node_modules.zip/file)
 
 <p align="center">
-  <a href="https://github.com/Johannes2803"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Johannes;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;In+Kabupaten+Medan+Deli;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
+  <a href="https://github.com/tahaluindo"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Tahaluindo;I+Learn+Html+And+Javascript;I+Am+20+Years+Old;I+live+In+Indonesian;In+Kabupaten+Surabaya+Deli;Don't+bully+me+im+still+noob≧▽≦" alt="Asu">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ Download Modules
 
 
 ### `ACTIVAR EN HEROKU (FASE EXPERIMENTAL)`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/Kitagawa-Marin-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tahaluindo/Marin-MD)
 ```bash
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
@@ -28,26 +28,7 @@ Download Modules
 </p>
 <p align="center">
 </p>
-<p align="center">
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Johannes280/Kitagawa-Marin-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Johannes2803/Kitagawa-Marin-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Johannes2803/Kitagawa-Marin-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Johannes2803/Kitagawa-Marin-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/Johannes2803/Kitagawa-Marin-MD ?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Johannes2803/Kitagawa-Marin-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Johannes2803/Kitagawa-Marin-MD ?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://img.shields.io/youtube/channel/subscribers/UC3zScvuQfMxqiTC5x_JUEng?style=social" /> <br>
-<a href="https://github.com/Johannes2803/Kitagawa-Marin-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Johannes2803/Kitagawa-Marin-MD ?label=PullRequest&color=red&style=flat-square"></a>
-</p>
-  
 ------
-
-### My YouTube
-<p align="center">
-<a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img align="center" height="auto" src="https://telegra.ph/file/05bf91db64550b882d9b4.jpg"/></a><br><br>
-<a href="https://www.youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng"><img src="https://camo.githubusercontent.com/d56af0508b6719132b386c00da86b2cf234084af1e4e4888ebd4b0c5106433e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d596f75747562652d7265643f7374796c653d666c61742d737175617265266c6f676f3d796f7574756265" />
-</a><br>
-<p align="center">
 
 - Papah-Chan
 - See more and subscribe
@@ -62,18 +43,6 @@ Download Modules
 > 
 > • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
 > 
-
-<h3 align="center">Made by :</h3>
-<p align="center">
-  </a href="https://github.com/ilmanhdyt"><img src="https://github.com/Paquito1923.png?size=128" height="128" width="128" /></a>
-  </a href="https://github.com/saipulanuar"><img src="https://github.com/saipulanuar.png?size=128" height="128" width="128" /></a>
-  </a href="https://github.com/ilmanhdyt"><img src="https://github.com/ilmanhdyt.png?size=128" height="128" width="128" /></a>
-  <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=128" height="128" width="128" /></a>
-  <h3 align="center">Recode By :</h3>
-<p align="center">
-  </a href="https://github.com/FahriAdison"><img src="https://github.com/FahriAdison.png?size=128" height="128" 
-  <a href="https://github.com/Johannes2803"><img src="https://github.com/Johannes2803.png?size=128" height="128" width="128" /></a>
-</p>
 
 ## How To Change Menu Display
 ----
@@ -162,9 +131,9 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/Johannes2803/Kitagawa-Marin-MD
-cd Kitagawa-Marin-MD 
-ekstrak lalu pasang module nya dan taruh di folder Kitagawa-Marin-MD 
+git clone https://github.com/tahaluindo/Marin-MD
+cd Marin-MD 
+ekstrak lalu pasang module nya dan taruh di folder Marin-MD 
 mc
 ganti session
 node .
@@ -196,18 +165,18 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=250)](https://github.com/ariffb25) | [![F](https://github.com/Alfarqun.png?size=80)](https://github.com/Alfarqun) | [![Fahri](https://github.com/FahriAdison.png?size=250)](https://github.com/FahriAdison) | [![Johannes](https://github.com/Johannes2803.png?size=250)](https://github.com/Johannes)
 ----|----|----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [F](https://github.com/Alfarqun) | [Fahri](https://github.com/FahriAdison)
- Author | suhu | suhu | rekan
+ Author | heker | ok | rekan
  
 ------
  
 ### Github Stats 
 
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Johannes2803&theme=midnight-purple&show_icons=true) 
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=tahaluindo&theme=midnight-purple&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Johannes2803&theme=monokai)
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=tahaluindo&theme=monokai)
 
-![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johannes2803&theme=tokyonight)
+![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluindo&theme=tokyonight)
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Johannes2803&repo=Mythia-Batford&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=tahaluindo&repo=Mythia-Batford&theme=dark)
