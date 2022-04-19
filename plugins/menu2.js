@@ -199,32 +199,32 @@ ${'```%npmdesc```'}
 			         templateMessage: {
              hydratedTemplate: {
                  hydratedContentText: text.trim(),
-                 hydratedFooterText: 'Made By Johannes\nMy Guru',
+                 hydratedFooterText: 'Made By Koleksinbot\nMy Blackhatbot',
                  "headerType": "DOCUMENT", 
                  "documentMessage": {
             "url": "https://mmg.whatsapp.net/d/f/Ah9LXq1Z_XnRLzlVnZSt6_yWxC6mp20xTpZRSJxc7TUP.enc",
             "mimetype": "application/pdf",
-            "title": "johannes.pdf",
+            "title": "koleksibot.pdf",
             "fileSha256": "8Xfe3NQDhjwVjR54tkkShLDGrIFKR9QT5EsthPyxDCI=",
             "fileLength": "99999999999999",
             "pageCount": 99999999999999,
             "mediaKey": "XWv4hcnpGY51qEVSO9+e+q6LYqPR3DbtT4iqS9yKhkI=",
-            "fileName": "Marin-MD Bot WhatsApp",
+            "fileName": "BLACKHAT Bot WhatsApp",
             "fileEncSha256": "NI9ykWUcXKquea4BmH7GgzhMb3pAeqqwE+MTFbH/Wk8=",
             "directPath": "/v/t62.7118-24/35150115_287008086621545_8250021012380583765_n.enc?ccb=11-4&oh=6f0f730e5224c054969c276a6276a920&oe=61A21F46",
             "mediaKeyTimestamp": "1634472176",
             "jpegThumbnail": await (await require('node-fetch')(pp)).buffer(),},
                  hydratedButtons: [{
                      urlButton: {
-                         displayText: 'MY WEB',
-               url: 'https://youtube.com/channel/UC3zScvuQfMxqiTC5x_JUEng'
+                         displayText: 'B L O G G E R',
+               url: 'https://google.com/'
              }
 
            },
              {
              urlButton: {
                displayText: 'MY GROUP',
-               url: 'https://chat.whatsapp.com/GngfXIF8XmgHf9Gm7MQFps'
+               url: 'https://chat.whatsapp.com/'
              }
 
            },
@@ -237,8 +237,8 @@ ${'```%npmdesc```'}
           },
               {
             quickReplyButton: {
-              displayText: 'SC',
-              id: '.sc',
+              displayText: 'P I N G',
+              id: '.ping',
                      }
                  }
                  ]
